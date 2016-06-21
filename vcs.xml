@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/lqdung-lockon/coupon-plugin" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lqdung-lockon/related-product-plugin" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\xampp\htdocs\eccube\app\Plugin" />
