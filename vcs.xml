@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/lqdung-lockon/related-product-plugin" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lammn/related-product-plugin" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\work\eccube-3.0.10\app\Plugin" />
+    <option name="cloneParentDir" value="C:\xampp\htdocs\eccube38\app\Plugin" />
   </component>
 </application>
