@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="jude" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
